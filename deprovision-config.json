@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://github.com/elad488/AzureImageFactory/blob/master/deprovision.sh"],
+  "commandToExecute": "./deprovision.sh"
+}
