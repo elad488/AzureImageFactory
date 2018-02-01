@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "vmadmin ALL = (ALL) NOPASSWD: ALL" >> /etc/sudoers.d/waagent
+echo "$1 ALL = (ALL) NOPASSWD: ALL" >> /etc/sudoers.d/waagent
 
 
